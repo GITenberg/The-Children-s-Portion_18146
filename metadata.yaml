@@ -1,0 +1,32 @@
+_repo: The-Children-s-Portion_18146
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Shoppell, R. W. (Robert W.)
+    alias: Shoppell, Robert W.
+    gutenberg_agent_id: '7838'
+    url: http://www.gutenberg.org/2009/agents/7838
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2006-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: The Golden Age -- The Merchant of Venice -- The Afflicted Prince
+  -- "His Ludship" -- Pious Constance -- The Doctor's Revenge -- The Woodcutter's
+  Child -- Show Your Colors -- Her Danger Signal -- A Knight's Dilemma -- "His Royal
+  Highness" -- Patient Griselda -- Let It Alone -- The Man Who Lost His Memory --
+  The Story of a Wedge -- Prince Edwin and His Page -- Cissy's Amendment -- The Winter's
+  Tale -- A Gracious Deed -- "Tom" -- Steven Lawrence, American
+title: The Children's Portion
+url: http://www.gutenberg.org/ebooks/18146
